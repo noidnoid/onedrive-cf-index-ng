@@ -30,7 +30,7 @@ module.exports = {
     'Powered by <a href="https://github.com/lyc8503/onedrive-cf-index-ng" target="_blank" rel="noopener noreferrer">onedrive-cf-index-ng</a>. Made with ❤ by lyc8503.',
 
   // 需要密码保护的目录（按需改）
-  protectedRoutes: ['/Private', '/Demo/😎Another Private Folder Password 123'],
+  protectedRoutes: ['/Private', '/file', '/Demo/😎Another Private Folder Password 123'],
 
   // 导航栏显示的邮箱（留空字符串则不显示）
   email: 'mailto:noid@dvu.me',
